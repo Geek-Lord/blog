@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://geek-lord.github.io/categories/</loc>
+    <loc>https://geek-lord.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://geek-lord.github.io/</loc>
+    <loc>https://geek-lord.github.io/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://geek-lord.github.io/tags/</loc>
+    <loc>https://geek-lord.github.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
