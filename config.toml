@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Sidharth's Blog"
 theme = "coder"
-
+publishDir = "docs"
 paginate = 20 # Default number of pages per page in pagination.
 canonifyurls = true # Enable to turn relative URLs into absolute.
 
