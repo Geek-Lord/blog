@@ -6,9 +6,30 @@
     <description>Recent content on Sidharth&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jul 2018 23:00:50 +0530</lastBuildDate>
     
 	<atom:link href="https://geek-lord.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://geek-lord.github.io/blog/my-first-post/</link>
+      <pubDate>Wed, 18 Jul 2018 23:00:50 +0530</pubDate>
+      
+      <guid>https://geek-lord.github.io/blog/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://geek-lord.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Wed, 18 Jul 2018 20:10:53 +0530</pubDate>
+      
+      <guid>https://geek-lord.github.io/blog/posts/my-first-post/</guid>
+      <description>Starting Out With My First Blog Hello guys!
+After so many years after I first had this thought, I finally have created a blog for myself. I was always worried thinking, &amp;ldquo;What if no one reads my blog?&amp;rdquo;. But the truth is that: I don&amp;rsquo;t really care.
+This is just a new experience for me just so that I can grow and develop my own skills. That&amp;rsquo;s also why I decided to build this all from scratch rather than going with something like Wordpress or Blogger.</description>
+    </item>
     
   </channel>
 </rss>

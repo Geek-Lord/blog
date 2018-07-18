@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://geek-lord.github.io/blog/my-first-post/</loc>
+    <lastmod>2018-07-18T23:00:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-lord.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2018-07-18T20:10:53+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://geek-lord.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://geek-lord.github.io/blog/posts/</loc>
+    <lastmod>2018-07-18T20:10:53+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://geek-lord.github.io/blog/</loc>
+    <lastmod>2018-07-18T23:00:50+05:30</lastmod>
     <priority>0</priority>
   </url>
   
