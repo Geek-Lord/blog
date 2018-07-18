@@ -19,7 +19,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "Hope you enjoyed!" # Add footer content
+    footercontent = "This website is a work in progress and in it's early stage. Thanks for visiting!" # Add footer content
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
@@ -52,8 +52,8 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "/posts/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
+    url  = "/blog/posts/"
+#[[menu.main]]
+#   name = "About"
+#    weight = 2
+#    url = "/about/"
